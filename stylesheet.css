@@ -1,3 +1,16 @@
 *{
     box-sizing: border-box;
+    margin: auto;
+}
+
+header{
+    width: 120em;
+    height:10em ;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.box{
+    background-color: #7F7F7F;
+    
 }
