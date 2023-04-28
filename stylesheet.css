@@ -4,15 +4,41 @@
 }
 
 header{
-    width: 120em;
-    height:10em ;
+    display: flex;
+    width: 140em;
+    height:105px ;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
 }
 
-.img1{
+.img{
+    display: flex;
+    border-radius: 0%;
+    height: 20px;
     width: 0px;
-    height: 0px;
+}
+
+.container{
+    display: flex;
+    margin-left: 230px;
+    border: 1px solid black;
+    margin-bottom: 200px;
+    text-decoration: none;
+    
+}
+
+.text,
+.text1,
+.text2,
+.text3,
+.text4{
+    font-size: 80px;
+    width:300px;
+}
+
+.text{
+    display: flex;
+    
 
 }
 
