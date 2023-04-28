@@ -10,6 +10,12 @@ header{
     border: 1px solid black;
 }
 
+.img1{
+    width: 0px;
+    height: 0px;
+
+}
+
 .box{
     background-color: #7F7F7F;
     
