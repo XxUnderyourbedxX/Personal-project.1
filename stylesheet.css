@@ -16,13 +16,14 @@ header{
     border-radius: 0%;
     height: 20px;
     width: 0px;
+    margin-right:0px;
 }
 
 .container{
     display: flex;
-    margin-left: 230px;
+    margin-left: 20px;
     border: 1px solid black;
-    margin-bottom: 200px;
+    margin-bottom: 40px;
     text-decoration: none;
     
 }
@@ -32,8 +33,8 @@ header{
 .text2,
 .text3,
 .text4{
-    font-size: 80px;
-    width:300px;
+    font-size: 30px;
+    width:200px;
 }
 
 .text{
@@ -45,4 +46,9 @@ header{
 .box{
     background-color: #7F7F7F;
     
+}
+
+footer{
+    margin-top: 20em;
+    background-color: #d3d3d3;
 }

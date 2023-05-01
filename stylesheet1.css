@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.container1{
+    display: flex;
+    margin-top: 70px;
+    align-items: center;
+}
+
+.box1{
+    background-color: #D3D3D3;
+    border: 1px solid black;
+    width: 100em;
+    height: 409px;
+
+}
+
+.ptext{
+    font-size: 20px;
+}
+
+.foot1{
+    
+}
