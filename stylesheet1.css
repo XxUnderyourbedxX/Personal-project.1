@@ -17,10 +17,24 @@
 
 }
 
+.container2{
+    position: relative;
+}
+
+.box2{
+    
+    border: 1px solid black;
+}
+
+.box2[alt~=mountain]{
+    background-image: none;
+    
+}
+
 .ptext{
     font-size: 20px;
 }
 
-.foot1{
+/*.foot1{
     
-}
+}*/
