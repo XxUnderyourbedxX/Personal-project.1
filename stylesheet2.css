@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.box6{
+    display: flex;
+}
+
+
+
+.box7{
+    display: flex;
+    margin-left: 15em;
+    margin-top: 10em;
+    border: 1px solid black;
+    width: 25em;
+    height: 30em;
+}
+
+.box7 p{
+    font-size: 29px;
+    padding: 1em;
+}
