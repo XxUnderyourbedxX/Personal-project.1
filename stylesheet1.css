@@ -31,6 +31,20 @@
     
 }
 
+.box3{
+    margin-top: 5em;
+    margin-left: 2em;
+    border: 1px solid black;
+    width: 20em;
+    height: 2em;
+}
+
+.box4{
+    border: 1px solid black;
+    width: 25em;
+    height: 2em;
+}
+
 .box7{
     display: flex;
     margin-left: 15em;

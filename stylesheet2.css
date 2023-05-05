@@ -58,8 +58,20 @@ body{
     display: flex;
     margin-top: 10em;
     border: 1px solid black;
-    width: 20em;
-    height: 30em;    
+    background-color: #D9D9D9;
+    width: 50em;
+    height: 60em;   
+}
+
+.box11 h3{
+    margin: 0%;
+    font-size: 3em;
+}
+
+.box11 li {
+    margin-top: 2;
+    font-size: 2em;
+    
 }
 
 .box12{
