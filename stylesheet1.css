@@ -55,7 +55,9 @@ body{
     height: 15em;
 }
 
-.box3 p{}
+.box3 p{
+    font-size: 2em;
+}
 
 .box4{
     display: flex;
