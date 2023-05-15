@@ -85,14 +85,23 @@ body{
 .box13{
     display: flex;
     border: 1px solid black;
+    margin-top: 20em;
     background-color: #D9D9D9;
+    width: 20em;
+    height: 29em;
 
+}
+
+.box13 p{
+    font-size: 20px;
 }
 
 .box14{
     display: flex;
     border: 1px solid black;
+    margin-top: 20em;
     background-color: #D9D9D9;
-
+    width: 20em;
+    height: 29em;
 }
 
