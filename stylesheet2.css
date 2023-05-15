@@ -87,13 +87,14 @@ body{
     border: 1px solid black;
     margin-top: 20em;
     background-color: #D9D9D9;
-    width: 20em;
+    width: 35.5em;
     height: 29em;
 
 }
 
 .box13 p{
-    font-size: 20px;
+    font-size: 25px;
+    padding: 1em;
 }
 
 .box14{
@@ -101,7 +102,11 @@ body{
     border: 1px solid black;
     margin-top: 20em;
     background-color: #D9D9D9;
-    width: 20em;
+    width: 35.5em;
     height: 29em;
 }
 
+.box14 p {
+    font-size: 25px;
+    padding: 1em;
+}
